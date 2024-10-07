@@ -1,20 +1,20 @@
 {
-    "title": "小旗搭建の主页",
+    "title": "serviceの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "小旗搭建,个人主页",
-    "author": "365301",
+    "keywords": "service,个人主页",
+    "author": "service",
     "logo_img": "./img/icon/xqdj.jpg",
-    "logo_text_1": "365301",
-    "logo_text_2": "xyz",
+    "logo_text_1": "service99",
+    "logo_text_2": "eu.org",
     "github": "",
-    "qq": "454386003",
-    "email": "454386003@qq.com",
+    "qq": "2829095986",
+    "email": "2809095986@qq.com",
     "bilibili": "rXKVCwv",
     "facebook": "bottom_user",
     "link_1": [
-        "https://xqdj.free.hr",
+        "https://shanhe.eu.org",
         "fa-solid fa-blog",
-        "小旗搭建"
+        "山河解密"
     ],
     "link_2": [
         "https://tongji.baidu.com/",
@@ -22,25 +22,25 @@
         "统计"
     ],
     "link_3": [
-        "https://xqdj.free.hr",
+        "https://shanhe.eu.org",
         "fa-solid fa-compass",
         "起始页"
     ],
     "link_4": [
-        "https://kejiquan.pp.ua",
+        "https://999vip.eu.org",
         "fa-solid fa-book-bookmark",
-        "科技圈"
+        "恋爱霸"
     ],
     "link_5": [
-        "https://shangdian.eu.org",
+        "https://shanhe.eu.org",
         "fa-solid fa-flask",
-        "商店"
+        "博客"
     ],
     "link_6": [
-        "https://xqdj.free.hr",
+        "https://shanhe.eu.org",
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "小旗搭建",
+    "Copyright_text": "service99",
     "beian": " "
 }
